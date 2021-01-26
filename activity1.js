@@ -11,5 +11,5 @@ function save(){
 }
 
 function next(){
-    window.location="https://www.youtube.com/";
+    window.location="activity_2.html";
 }
